@@ -1,7 +1,9 @@
-package eu.epfc.dvam.pocketmovie;
+package eu.epfc.dvam.pocketmovie.controller;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import eu.epfc.dvam.pocketmovie.R;
 
 public class MainActivity extends AppCompatActivity {
 
